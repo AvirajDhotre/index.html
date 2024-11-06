@@ -45,14 +45,21 @@ pipeline    {
 
 
                    } 
+stage ("stage-4")  {
 
+ 
+                       steps {
+
+                              echo " hello this is my master branch"
 
 }
 
 
            }
 
+            }
 
+}
 
 
 
