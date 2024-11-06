@@ -40,7 +40,7 @@ pipeline    {
  
                        steps {
 
-                              echo " hello this is my stage-3"
+                              echo "hello this is my stage-3"
            } 
 
 
@@ -50,7 +50,7 @@ stage ("stage-4")  {
  
                        steps {
 
-                              echo " hello this is my master branch"
+                              echo "this is my master branch"
 
 }
 
